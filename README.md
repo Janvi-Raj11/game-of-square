@@ -9,8 +9,13 @@ A little interactive toy where each of the four squares responds differently to 
 
 ## Live Demo
 
-[Play the Game of Squares](https://github.com/Janvi-Raj11/game-of-square)
+[Click here to play the Game of Squares](https://janvi-raj11.github.io/game-of-square/)
 
 ## How It Works
 
 The page listens for `mouseenter`, `mouseleave`, and `click` events on each square and updates styles & contents via JavaScript.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (ES6)
