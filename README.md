@@ -9,9 +9,7 @@ A little interactive toy where each of the four squares responds differently to 
 
 ## Live Demo
 
-## Live Demo
-
-[Play the Game of Squares](https://janvi-raj11.github.io/game-of-squares/)
+[Play the Game of Squares](https://github.com/Janvi-Raj11/game-of-square)
 
 ## How It Works
 
